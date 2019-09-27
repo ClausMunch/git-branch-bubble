@@ -18,8 +18,8 @@
         }
     ],
     "require": {
-        "illuminate/support": "~5.1",
-        "php" : ">=5.3.0",
+        "php": ">=7",
+        "illuminate/support": "^5.5|^6",
         "sebastian/git": "2.0.*"
     },
     "autoload": {
